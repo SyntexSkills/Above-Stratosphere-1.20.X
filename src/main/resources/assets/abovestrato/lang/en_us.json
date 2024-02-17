@@ -1,0 +1,11 @@
+{
+  "item.abovestrato.raw_bauxite": "Raw Bauxite",
+  "item.abovestrato.aluminium_powder": "Aluminium Powder",
+  "item.abovestrato.aluminium_ingot": "Aluminium Ingot",
+
+  "block.abovestrato.bauxite_ore": "Bauxite Ore",
+  "block.abovestrato.deepslate_bauxite_ore": "Deepslate Bauxite Ore",
+  "block.abovestrato.aluminium_block": "Block of Aluminium",
+
+  "creativetab.abovestrato_tab": "Above Strato"
+}

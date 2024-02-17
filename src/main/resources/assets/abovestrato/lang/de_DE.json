@@ -1,0 +1,11 @@
+{
+  "item.abovestrato.raw_bauxite": "Rohbauxit",
+  "item.abovestrato.aluminium_powder": "Aluminiumpulver",
+  "item.abovestrato.aluminium_ingot": "Aluminiumbarren",
+
+  "block.abovestrato.bauxite_ore": "Bauxiterz",
+  "block.abovestrato.deepslate_bauxite_ore": "Tiefenschiefer-Bauxiterz",
+  "block.abovestrato.aluminium_block": "Aluminiumblock",
+
+  "creativetab.abovestrato_tab": "Above Strato"
+}
